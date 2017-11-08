@@ -1,1 +1,3 @@
-alert('connected');
+$(document).ready(function(){
+	document.getElement('')
+});	
